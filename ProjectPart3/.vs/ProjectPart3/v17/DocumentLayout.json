@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Master\\Project\\ProjectPart3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCD0987-9752-471B-A796-2219A885B6DD}|ProjectPart3.vcxproj|D:\\Master\\Project\\ProjectPart3\\ProjectPart3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECCD0987-9752-471B-A796-2219A885B6DD}|ProjectPart3.vcxproj|solutionrelative:ProjectPart3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectPart3.cpp",
+              "DocumentMoniker": "D:\\Master\\Project\\ProjectPart3\\ProjectPart3.cpp",
+              "RelativeDocumentMoniker": "ProjectPart3.cpp",
+              "ToolTip": "D:\\Master\\Project\\ProjectPart3\\ProjectPart3.cpp",
+              "RelativeToolTip": "ProjectPart3.cpp",
+              "ViewState": "AQIAALoAAAAAAAAAAAAAwMQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-16T08:39:01.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

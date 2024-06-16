@@ -1,0 +1,6 @@
+﻿  ProjectPart3.cpp
+D:\Master\Project\ProjectPart3\ProjectPart3.cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  D:\Master\Project\ProjectPart3\ProjectPart3.cpp(1,1):
+  '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  ProjectPart3.vcxproj -> D:\Master\Project\ProjectPart3\Debug\ProjectPart3.exe
